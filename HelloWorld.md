@@ -2,7 +2,7 @@
 title: "Hello World"
 author: "Michael Becker"
 date: "January 24, 2020"
-output: html_document
+output: pdf_document
 ---
 
 ## R Markdown
